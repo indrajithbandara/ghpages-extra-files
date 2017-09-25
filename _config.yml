@@ -1,0 +1,4 @@
+title: Github Pages extra files
+markdown: kramdown
+gems:
+  - jekyll-redirect-fromm
