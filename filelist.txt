@@ -3,3 +3,4 @@ title: The Example!
 ---
 {% for page in site.pages %}url={{page.url}} path={{ page.path}}
 {% endfor %}
+theme: "{{site.theme}}"
